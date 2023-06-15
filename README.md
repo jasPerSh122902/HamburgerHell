@@ -1,6 +1,6 @@
 # HamburgurHell
  
-This project was made with the collaberation of 3 programmers and 3 artist.
+This project was made with the collaberation of 3 programmers and 3 artist. To find the build https://hamburger-hell.itch.io/hamburger-hell will take you to it. But you can get the build from the build zip on github.
 
 # Controls
 * WASD/Left JoyStick to move.
